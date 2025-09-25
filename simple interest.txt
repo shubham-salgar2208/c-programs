@@ -1,0 +1,21 @@
+# include <stdio.h>
+int main()
+{
+ 
+  // Simple interest program
+  float principle, rate, time, interest;
+
+  printf("Enter the principle:");
+  scanf("%f", &principle);
+
+  printf("Enter the rate:");
+  scanf("%f", &rate);
+
+  printf("Enter the time:")
+  scanf("%f", &time:);
+
+  interest=(principle*rate*time)100;
+  pfintf("The Simple interest is %f", interest);
+  return 0;
+
+}
